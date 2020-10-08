@@ -1,5 +1,5 @@
 # Level Up Tutorials JavaScript Testing 101
-
+In this project I will deminstrait React testing for beginners. I will test React components using Jest & React Testing Library 
 ## Help Support
 
 https://www.leveluptutorials.com/store
